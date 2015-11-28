@@ -1,0 +1,13 @@
+# {{ Title of email info; eg: Twitter Registeration page }}    
+Email Type: {{ Format of email; eg: `Plain Text` or `Html` }}  
+Site: {{ Link to sender; eg: http://twitter.com }}    
+Date: {{ Date when email was received; eg: 3 Jan 2009 }}     
+Subject: {{ Subject of email; eg: Welcoming you to Twitter! }}     
+
+Screenshot:  
+{{ Markdown formatted image link that must be in img directory; eg: ![Twitter](img/twitter.png)  }}  
+
+Source:  
+```
+{{ Put here source of email, for HTML - put html format }}  
+```

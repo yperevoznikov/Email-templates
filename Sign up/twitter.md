@@ -1,12 +1,11 @@
-Screenshot:  
-```
-![Twitter](img/twitter.png)  
-```
-
+# Twitter Registeration page
 Email Type: Plain Text  
 Site: http://twitter.com  
 Date: 3 Jan 2009  
 Subject: Welcoming you to Twitter!  
+
+Screenshot:  
+![Twitter](img/twitter.png)  
 
 Source:  
 ```
